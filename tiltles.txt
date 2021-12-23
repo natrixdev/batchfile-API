@@ -1,0 +1,4 @@
+title natrix dev
+Ex : title natrix dev
+     @echo off
+     hi, look up this title
